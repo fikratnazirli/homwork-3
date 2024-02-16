@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(83, 189, 216);
+}
+.border{
+    background-color: white;
+    border: 1px solid black;
+    width: 600px;
+    height: 600px;
+    margin-left: 40px;
+    margin-top: 100px;
+}
+.bc{
+    width: 600px;
+    background-color: yellowgreen;
+    height: 50px;
+    flex-direction: row;
+}
+.font{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+    
+    color: white;
+    font-size: 25px;
+}
+.fon{
+    display: flex;
+    justify-content: flex-end;
+   align-items: flex-start;
+    color: white;
+    font-size: 25px;
+}
+.margin{
+    margin-bottom: 400px;
+}
+.bv{
+    display: inline;
+    color: white;
+    background-color: green;
+    font-size: 25px;
+    margin-left: 500px;
+   
+}
